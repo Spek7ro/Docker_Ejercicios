@@ -3,6 +3,7 @@ Ejercicios usando Docker
 
 ### Recursos: 
 https://pabpereza.dev/docs/cursos/docker 
+https://cheatsheets.zip/docker
 
 ![image](https://github.com/user-attachments/assets/2f452a5c-91eb-4fb5-b26d-ca327790f141)
 
